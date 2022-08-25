@@ -5,11 +5,19 @@ Projetos práticos de:
 
 
 *React.js  
-*JavaScript  
+*JavaScript
+<br>
 *CSS 
+<br>
 *HTML 
-*Node.JS  
-*MySQL  
-*Typescript 
-*AWS 
+<br>
+*Node.JS 
+<br>
+*MySQL
+<br>
+*Typescript
+<br>
+*AWS
+<br>
 *FireBase 
+<br>
